@@ -1,5 +1,5 @@
 class AppStrings {
-  static const helloPino = "Hello, Pino";
+  static const helloPino = "Hello, Habiba";
   static const whatToBuy = "What do you want to buy?";
   static const search = "Search";
   static const addToCart = "Add to cart";
